@@ -3,6 +3,7 @@ p{
 } 
 h1{
     text-align: center;
-    color: blue;
+    color: darkred;
+    background-color: red;
 } 
-strong{color: limegreen;}
+strong{color: red;}
